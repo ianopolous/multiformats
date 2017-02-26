@@ -131,6 +131,7 @@ As well as specifications, we also have some implementations in the organization
 | [js-multibase](https://github.com/multiformats/js-multibase) | @diasdavid | |
 | [js-multistream-select](https://github.com/multiformats/js-multistream-select) | @diasdavid | |
 | [js-multistream](https://github.com/multiformats/js-multistream-select)| @diasdavid | |
+| [java-multibase](https://github.com/multiformats/java-multibase) | @ianopolous | |
 
 ### Other Repositories
 
